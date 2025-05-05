@@ -1,50 +1,41 @@
-# tfra.github.io
-Privacy Policy di Let’s Quiz!
-Ultimo aggiornamento: 20 maggio 2025
-Titolare del trattamento
+# Privacy Policy di Let’s Quiz!
+Ultimo aggiornamento: 05 maggio 2025
+## Titolare del trattamento
 Let’s Quiz! è un’app Android sviluppata e pubblicata da Francesco Toccafondi, email toccafondifrancesco@gmail.com, che funge da titolare del trattamento dei dati personali raccolti tramite l’app. L’utente può contattare il titolare a questo indirizzo email per esercitare i propri diritti o per qualsiasi richiesta relativa alla privacy.
-Dati personali raccolti e finalità
-Nickname (nome utente): l’utente sceglie un nickname che serve ad identificarlo all’interno del gioco. Viene salvato su Firebase Realtime Database per consentire l’uso delle funzionalità dell’app (es. classifiche, condivisione di risultati).
-Selfie (foto profilo): l’app consente di scattare e condividere selfie con altri giocatori. I selfie vengono archiviati in Firebase Storage connesso all’app e utilizzati solo per le finalità indicate (es. visualizzazione nella app da parte di altri utenti). Let’s Quiz! non pubblica selfie su piattaforme esterne né utilizza le foto per finalità estranee all’app.
-Dati tecnici e di utilizzo: per migliorare l’app e risolvere problemi, Let’s Quiz! utilizza Firebase Analytics e Crashlytics. Questi servizi raccolgono dati tecnici quali tipo di dispositivo, versione di sistema operativo, impostazioni di lingua, eventi di utilizzo dell’app e informazioni sui crash. Tali dati sono trattati in forma anonimizzata o aggregata, finalizzati a statistiche di utilizzo, miglioramento del servizio e sicurezza dell’app
-firebase.google.com
-.
-Tutti i dati personali raccolti sono gestiti su server Firebase (Google), dove Google agisce come responsabile del trattamento per conto dello sviluppatore
-firebase.google.com
-. Le immagini e i nickname sono sotto il controllo del titolare (sviluppatore), che provvede a conservarli per fornire il servizio di quiz e socializzazione previsto.
-Finalità e base giuridica del trattamento
+## Dati personali raccolti e finalità
+- Nickname (nome utente): l’utente sceglie un nickname che serve ad identificarlo all’interno del gioco. Viene salvato su Firebase Realtime Database per consentire l’uso delle funzionalità dell’app (es. classifiche, condivisione di risultati).
+- Selfie (foto profilo): l’app consente di scattare e condividere selfie con altri giocatori. I selfie vengono archiviati in Firebase Storage connesso all’app e utilizzati solo per le finalità indicate (es. visualizzazione nella app da parte di altri utenti). Let’s Quiz! non pubblica selfie su piattaforme esterne né utilizza le foto per finalità estranee all’app.
+- Dati tecnici e di utilizzo: per migliorare l’app e risolvere problemi, Let’s Quiz! utilizza Firebase Analytics e Crashlytics. Questi servizi raccolgono dati tecnici quali tipo di dispositivo, versione di sistema operativo, impostazioni di lingua, eventi di utilizzo dell’app e informazioni sui crash. Tali dati sono trattati in forma anonimizzata o aggregata, finalizzati a statistiche di utilizzo, miglioramento del servizio e sicurezza dell’app.
+
+Tutti i dati personali raccolti sono gestiti su server Firebase (Google), dove Google agisce come responsabile del trattamento per conto dello sviluppatore. Le immagini e i nickname sono sotto il controllo del titolare (sviluppatore), che provvede a conservarli per fornire il servizio di quiz e socializzazione previsto.
+## Finalità e base giuridica del trattamento
 Il trattamento dei dati personali nell’app Let’s Quiz! avviene con le seguenti basi giuridiche:
-Esecuzione del servizio: il nickname e il selfie sono necessari per fornire le funzioni principali del gioco (partecipazione ai quiz, invio e condivisione di selfie). Il trattamento è quindi indispensabile per permettere il normale funzionamento dell’app.
-Consenso espresso: fornendo volontariamente il proprio nickname e scattando un selfie, l’utente acconsente all’utilizzo di tali dati per le finalità sopra indicate. L’utente può revocare questo consenso in qualsiasi momento chiedendo la cancellazione dei propri dati (vedi sezione “Diritti degli utenti”).
-Legittimo interesse: per quanto riguarda gli strumenti analitici (Firebase Analytics) e di report degli errori (Crashlytics), il titolare tratta i dati tecnici dell’app con il legittimo interesse di migliorare il servizio, risolvere malfunzionamenti e garantire la sicurezza dell’applicazione
-firebase.google.com
-. Questi dati non identificano direttamente la persona, ma consentono di valutare l’efficacia dell’app e correggere anomalie.
+- Esecuzione del servizio: il nickname e il selfie sono necessari per fornire le funzioni principali del gioco (partecipazione ai quiz, invio e condivisione di selfie). Il trattamento è quindi indispensabile per permettere il normale funzionamento dell’app.
+- Consenso espresso: fornendo volontariamente il proprio nickname e scattando un selfie, l’utente acconsente all’utilizzo di tali dati per le finalità sopra indicate. L’utente può revocare questo consenso in qualsiasi momento chiedendo la cancellazione dei propri dati (vedi sezione “Diritti degli utenti”).
+- Legittimo interesse: per quanto riguarda gli strumenti analitici (Firebase Analytics) e di report degli errori (Crashlytics), il titolare tratta i dati tecnici dell’app con il legittimo interesse di migliorare il servizio, risolvere malfunzionamenti e garantire la sicurezza dell’applicazione. Questi dati non identificano direttamente la persona, ma consentono di valutare l’efficacia dell’app e correggere anomalie.
+
 Non ci affidiamo ad altre basi giuridiche (es. profilazione per marketing) e non raccogliamo dati sensibili (come dati sanitari o finanziari) né informazioni aggiuntive di contatto oltre quelle indicate.
-Condivisione dei dati
+## Condivisione dei dati
 Let’s Quiz! non vende né affitta dati personali degli utenti a terze parti. I dati (nickname e selfie) possono essere visualizzati solo da altri utenti dell’app in funzione delle meccaniche di gioco (es. vedere il profilo o i risultati degli altri giocatori), ma non sono condivisi pubblicamente al di fuori dell’applicazione. In particolare:
-I selfie sono condivisi solamente all’interno dell’app per le funzionalità social del gioco; non vengono inviati a social network o piattaforme esterne senza il consenso dell’utente.
-I dati raccolti da Firebase Analytics/Crashlytics sono comunicati a Google (responsabile del trattamento) esclusivamente per scopi statistici e di debug
-firebase.google.com
-. Google utilizza questi dati in conformità con le proprie policies di privacy, ma non ne fa uso a fini di profilazione pubblicitaria nell’ambito di Let’s Quiz!.
-Non c’è vendita di dati: in ottemperanza alle leggi sulla privacy (ad es. CCPA/CPRA in California) dichiariamo che non vendiamo né condividiamo dati personali con servizi pubblicitari o altri soggetti terzi. Gli utenti californiani hanno diritto di conoscere le categorie di dati raccolti e di vietare qualsiasi trasferimento non autorizzato
-termly.io
-.
+- I selfie sono condivisi solamente all’interno dell’app per le funzionalità social del gioco; non vengono inviati a social network o piattaforme esterne senza il consenso dell’utente.
+- I dati raccolti da Firebase Analytics/Crashlytics sono comunicati a Google (responsabile del trattamento) esclusivamente per scopi statistici e di debug. Google utilizza questi dati in conformità con le proprie policies di privacy, ma non ne fa uso a fini di profilazione pubblicitaria nell’ambito di Let’s Quiz!.
+- Non c’è vendita di dati: in ottemperanza alle leggi sulla privacy (ad es. CCPA/CPRA in California) dichiariamo che non vendiamo né condividiamo dati personali con servizi pubblicitari o altri soggetti terzi. Gli utenti californiani hanno diritto di conoscere le categorie di dati raccolti e di vietare qualsiasi trasferimento non autorizzato.
+
 In caso di obblighi di legge (ad es. richiesta di autorità giudiziarie) potremmo dover comunicare dati limitatamente ai casi previsti dalla normativa, nel rispetto dei limiti legali.
-Diritti degli utenti
+## Diritti degli utenti
 Gli utenti hanno diversi diritti in materia di protezione dei dati personali. Per esercitarli, possono contattare il titolare (vedi “Contatti” sotto). In particolare:
-Diritto di accesso: l’utente può richiedere di sapere quali dati personali lo riguardano e come vengono trattati.
-Diritto di rettifica: se i dati sono inesatti o incompleti, l’utente può chiederne la correzione o integrazione.
-Diritto alla cancellazione (“diritto all’oblio”): l’utente può richiedere la cancellazione dei propri dati personali conservati da Let’s Quiz! (ad es. nickname e selfie), salvo obblighi legali contrari. Sebbene l’app non preveda al momento un’interfaccia automatica di cancellazione, l’utente può sempre inviare una richiesta via email per eliminare i propri dati.
-Diritto di limitazione: l’utente può chiedere di sospendere temporaneamente il trattamento dei propri dati (ad es. in attesa di verifica su una richiesta di rettifica).
-Diritto di opposizione: l’utente può opporsi al trattamento dei dati basato su legittimo interesse, ad esempio chiedendo di non partecipare a particolari statistiche, se tecnicamente possibile.
-Diritto alla portabilità: se applicabile (es. dati forniti volontariamente), l’utente può chiedere di ricevere i propri dati in formato strutturato.
-Revoca del consenso: in qualsiasi momento, l’utente può revocare il consenso al trattamento dei dati forniti (ad es. rinunciare a condividere il proprio selfie). Questo non rende il trattamento precedente illecito, ma il titolare sospenderà ulteriori usi dei dati per le finalità relative a quel consenso.
-Diritti aggiuntivi per residenti California (CCPA/CPRA): se risiedi in California, hai ulteriori diritti quali il diritto di conoscere le categorie di dati raccolti nell’ultimo anno e di richiedere la cancellazione dei tuoi dati personali
-termly.io
-. Non vendiamo né condividiamo dati a fini commerciali, ma hai comunque diritto di opporti o di far valere eventuali restrizioni previste dalla legge californiana. Tutti i diritti sopra indicati possono essere esercitati contattando il titolare del trattamento. Il titolare risponderà entro i termini di legge (generalmente 1 mese, estendibili fino a 3 in casi complessi). Gli utenti hanno inoltre il diritto di proporre reclamo all’Autorità Garante per la protezione dei dati personali (in Italia il Garante Privacy) se ritengono che i loro diritti non siano stati rispettati.
-Minori
-Let’s Quiz! non è rivolta a bambini di età inferiore ai 13 anni. Per rispetto della normativa COPPA (USA) e delle leggi analoghe, chiediamo agli utenti di certificare di avere almeno 13 anni prima di utilizzare l’app. Se un genitore ritiene che i dati di un bambino di età inferiore a 13 anni siano stati raccolti involontariamente, può contattare il titolare per richiederne la cancellazione immediata. Conformemente alla legge COPPA, non raccogliamo consapevolmente dati da minori di 13 anni
-epic.org
- e non offriamo funzioni dedicate a minori. Se sei sotto i 13 anni, non utilizzare Let’s Quiz!.
-Contatti
+- Diritto di accesso: l’utente può richiedere di sapere quali dati personali lo riguardano e come vengono trattati.
+- Diritto di rettifica: se i dati sono inesatti o incompleti, l’utente può chiederne la correzione o integrazione.
+- Diritto alla cancellazione (“diritto all’oblio”): l’utente può richiedere la cancellazione dei propri dati personali conservati da Let’s Quiz! (ad es. nickname e selfie), salvo obblighi legali contrari. Sebbene l’app non preveda al momento un’interfaccia automatica di cancellazione, l’utente può sempre inviare una richiesta via email per eliminare i propri dati.
+- Diritto di limitazione: l’utente può chiedere di sospendere temporaneamente il trattamento dei propri dati (ad es. in attesa di verifica su una richiesta di rettifica).
+- Diritto di opposizione: l’utente può opporsi al trattamento dei dati basato su legittimo interesse, ad esempio chiedendo di non partecipare a particolari statistiche, se tecnicamente possibile.
+- Diritto alla portabilità: se applicabile (es. dati forniti volontariamente), l’utente può chiedere di ricevere i propri dati in formato strutturato.
+- Revoca del consenso: in qualsiasi momento, l’utente può revocare il consenso al trattamento dei dati forniti (ad es. rinunciare a condividere il proprio selfie). Questo non rende il trattamento precedente illecito, ma il titolare sospenderà ulteriori usi dei dati per le finalità relative a quel consenso.
+
+Diritti aggiuntivi per residenti California (CCPA/CPRA): se risiedi in California, hai ulteriori diritti quali il diritto di conoscere le categorie di dati raccolti nell’ultimo anno e di richiedere la cancellazione dei tuoi dati personali. Non vendiamo né condividiamo dati a fini commerciali, ma hai comunque diritto di opporti o di far valere eventuali restrizioni previste dalla legge californiana. 
+
+Tutti i diritti sopra indicati possono essere esercitati contattando il titolare del trattamento. Il titolare risponderà entro i termini di legge (generalmente 1 mese, estendibili fino a 3 in casi complessi). Gli utenti hanno inoltre il diritto di proporre reclamo all’Autorità Garante per la protezione dei dati personali (in Italia il Garante Privacy) se ritengono che i loro diritti non siano stati rispettati.
+## Minori
+Let’s Quiz! non è rivolta a bambini di età inferiore ai 13 anni. Per rispetto della normativa COPPA (USA) e delle leggi analoghe, chiediamo agli utenti di certificare di avere almeno 13 anni prima di utilizzare l’app. Se un genitore ritiene che i dati di un bambino di età inferiore a 13 anni siano stati raccolti involontariamente, può contattare il titolare per richiederne la cancellazione immediata. Conformemente alla legge COPPA, non raccogliamo consapevolmente dati da minori di 13 anni e non offriamo funzioni dedicate a minori. Se sei sotto i 13 anni, non utilizzare Let’s Quiz!.
+## Contatti
 Per qualsiasi richiesta relativa alla privacy o per esercitare i diritti di cui sopra, scrivere a: toccafondifrancesco@gmail.com. Questa email è l’unico contatto ufficiale per questioni di privacy.
